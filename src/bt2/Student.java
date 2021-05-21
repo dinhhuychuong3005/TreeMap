@@ -39,7 +39,7 @@ public class Student {
 
     @Override
     public String toString() {
-        return "Student{" +
+        return "bt3.Student{" +
                 "name='" + name + '\'' +
                 ", address='" + address + '\'' +
                 ", age=" + age +
